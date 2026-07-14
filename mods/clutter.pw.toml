@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.21.1-0.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/hpaMZC3y/clutter-1.21.1-0.6.6.jar"
+hash-format = "sha512"
+hash = "9fb815adc78deef3b4a4c88125d95fdfcb3ef2183452ec5ca15f3339518047b540f165a184d34bab0d80edf4a733775db8420616c7d1491581c44affcbb57d28"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "hpaMZC3y"

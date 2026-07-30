@@ -46,6 +46,11 @@ hash = "dbdf1d7e66d459d4a6b6bfe20ee07a3599f64b69ecd3cb4fadf2c65fa4cd060f"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
@@ -161,6 +171,11 @@ hash = "cfd47faa067c11e3a6deaafaeedc77847163653e29c9b71a47bdfd6f970a7f0e"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "3e0c8e0e78ced5db1703fa1ce676c23db352a0bff68789ccda99edd899751ec1"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
@@ -189,3 +204,7 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
+
+[[files]]
+file = "push-pack.ps1"
+hash = "fb86be98d853d769bc1511d8fa91ee87f1d441fa8625e15735b09e1bbc926bd9"

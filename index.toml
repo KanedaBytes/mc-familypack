@@ -209,7 +209,3 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
-
-[[files]]
-file = "push-pack.ps1"
-hash = "fb86be98d853d769bc1511d8fa91ee87f1d441fa8625e15735b09e1bbc926bd9"
